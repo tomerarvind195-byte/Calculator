@@ -39,7 +39,7 @@ Continue? (yes/no): yes
 
 ## 📋 About The Project
 
-A **clean and interactive Python calculator** that runs in the terminal, supporting a wide range of arithmetic operations. Built using core Python — no external libraries needed. Designed with a menu-driven interface for easy use.
+A **clean and interactive Python calculator** that runs in the terminal, supporting a wide range of arithmetic operations. Built using core Python — no external libraries needed. Designed with a menu-driven interface for easy use.for this python library.
 
 **Key Highlights:**
 - 10+ arithmetic operations supported
