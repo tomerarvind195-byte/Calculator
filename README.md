@@ -204,20 +204,20 @@ python-calculator/
 
 ## 🔮 Future Improvements
 
-- [ ] Add GUI using `tkinter`
-- [ ] Scientific calculator mode (sin, cos, tan, log)
-- [ ] Save history to a `.txt` file
-- [ ] Build a web-based calculator using Django
-- [ ] Add keyboard shortcut support
+- [ ] Add GUI using `tkinter`.
+- [ ] Scientific calculator mode (sin, cos, tan, log).
+- [ ] Save history to a `.txt` file.
+- [ ] Build a web-based calculator using Django.
+- [ ] Add keyboard shortcut support.
 
 ---
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/scientific-mode`)
-3. Commit your changes (`git commit -m 'Add scientific calculator mode'`)
-4. Push and open a Pull Request
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/scientific-mode`).
+3. Commit your changes (`git commit -m 'Add scientific calculator mode'`).
+4. Push and open a Pull Request.
 
 ---
 
